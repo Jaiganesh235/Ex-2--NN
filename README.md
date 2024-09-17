@@ -124,7 +124,10 @@ plt.ylabel('Errors')
 plt.show()
 
 ```
-
+<br>
+<br>
+<br>
+<br>
 
 ## OUTPUT:
 
